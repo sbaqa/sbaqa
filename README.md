@@ -19,8 +19,7 @@ This is the place where I opensource stuff and break things :rofl:
 🔗 &nbsp;**Connect with me**
 <p align="left">
 <a href="https://t.me/pump_gun" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="sviatoslavbordovski" height="30" width="40" /></a>
-<a href="https://twitter.com/me" target="blank"> <i class="fa-brands fa-upwork"> <img align="center" src="" alt="sviatoslavbordovski" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sviatoslavbordovski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sviatoslavbordovski" height="30" width="40" /></a>
+<a href="https://twitter.com/me" target="blank"> <i class="fa-brands fa-upwork"></a>
 
 ### ✨&nbsp; About Me
 
