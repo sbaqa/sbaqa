@@ -51,9 +51,9 @@ All of my projects are released as open-source on GitHub, this includes some of 
 During my free time, I actively contribute to open-source projects on GitHub. Due to my significant contributions to several projects, I was appointed as a AQA Tech Lead on several projects in my career. Feel free to hire me here <link>
 
 #### Awards and Achievements
-- Won the 1st edition of [GitHub India Open Source Grants](https://github.blog/2021-09-12-recipients-open-source-grants-github-sponsors-india/)
-- Worked as [DuckDuckGo Community Leader](https://web.archive.org/web/20210727164606/https://help.duckduckgo.com/community/community-leaders/) and Maintainer
-- Won 1st place in Several Hackathons and events
+- Was able to support 6000+ automation tests as a champ!
+- Worked as [EPAM AQA TECH LEAD]
+- Survived and contributed efficiently to different projects during the war between Ukraine and ruzzia
   
 <details>
   <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
