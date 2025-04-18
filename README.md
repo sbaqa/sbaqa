@@ -52,7 +52,7 @@ During my free time, I actively contribute to open-source projects on GitHub. Du
 
 #### Awards and Achievements
 - Was able to support 6000+ automation tests as a champ!
-- Worked as [EPAM AQA TECH LEAD]
+- Worked as EPAM AQA TECH LEAD
 - Survived and contributed efficiently to different projects during the war between Ukraine and ruzzia
   
 <details>
