@@ -5,7 +5,7 @@ This is the place where I opensource stuff and break things :rofl:
 - 🌱 &nbsp;I’m currently learning Appium, Locust and improving Typescript
 - 💬 &nbsp;Ask me about anything related to Javascript/Typescript/Python or Playwright, Selenium
 - 👨‍💻 &nbsp;Read more about my projects [here](https://sbaqa.github.io/)
-- ⚡ &nbsp;Fun fact: I :heart: :dog:s and Xbox Gaming (GamerTag: [GKRXtreme](https://account.xbox.com/en-us/profile?gamertag=GKRXtreme))
+- ⚡ &nbsp;Fun fact: I :heart: :dog:s and :bike:
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
