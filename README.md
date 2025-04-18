@@ -7,8 +7,8 @@ This is the place where I opensource stuff and break things :rofl:
 - 👨‍💻 &nbsp;Read more about my projects [here](https://sbaqa.github.io/)
 - ⚡ &nbsp;Fun fact: I :heart: :dog:s and :bike:
 
-📕 &nbsp;**Latest Blog Posts**
-<!-- BLOG-POST-LIST:START
+<!-- 📕 &nbsp;**Latest Blog Posts**
+ BLOG-POST-LIST:START
 - [How to prevent GitHub from suspending your cronjob based triggers](https://dev.to/gautamkrishnar/how-to-prevent-github-from-suspending-your-cronjob-based-triggers-knf)
 - [How I built one of the top 20 most used Github Actions](https://www.gautamkrishnar.com/how-i-built-one-of-the-top-20-most-used-github-actions/)
 - [Show your latest dev.to posts automatically on your GitHub profile readme](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)
@@ -48,7 +48,7 @@ All of my projects are released as open-source on GitHub, this includes some of 
                  /___/                /___/       
 ```
 
-During my free time, I actively contribute to open-source projects on GitHub. Due to my significant contributions to DuckDuckGo, I was appointed as a maintainer and community leader with write access to all of DuckDuckGo's repositories. I have also made contributions to a variety of other open-source projects and organizations, including Mozilla, Angular, Svelte, Node.JS etc
+During my free time, I actively contribute to open-source projects on GitHub. Due to my significant contributions to several projects, I was appointed as a AQA Tech Lead on several projects in my career. Feel free to hire me here <link>
 
 #### Awards and Achievements
 - Won the 1st edition of [GitHub India Open Source Grants](https://github.blog/2021-09-12-recipients-open-source-grants-github-sponsors-india/)
