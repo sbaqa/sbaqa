@@ -28,13 +28,13 @@ I am a Full Stack Software Developer in Test with 9+ years of experience in deve
 
 #### My Opensource Story
 All of my projects are released as open-source on GitHub, this includes some of my GitHub trending projects:
-- [Nothing Private](https://github.com/gautamkrishnar/nothing-private) - This proof of concept project showcases the ability of any website to track and identify individuals, even when using private browsing or incognito mode in their web browser. With over 5000K users and 1.8K stars, it has garnered attention and discussions in privacy forums and conferences globally. Its impact has led to improvements from privacy-focused browser vendors to counter fingerprinting, and has increased public awareness of the dangers of browser fingerprinting.
-- [Blog Post Workflow](https://github.com/gautamkrishnar/blog-post-workflow) - A Github action to show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed. It is now used by over 5.6K+ users and running on thousands of GitHub actions runner every hour. It is also one of the top 20 [most used](https://github.com/marketplace?category=&query=sort%3Apopularity-desc&type=actions&verification=) GitHub actions internationally in GitHub Marketplace.
--  [SoCLI](https://github.com/gautamkrishnar/socli) Within 24 hours of its release, it garnered over 300 stars and now has nearly 2K users. This tool offers a convenient way of accessing StackOverflow directly from a terminal.
-- [Motrix WebExtension](https://github.com/gautamkrishnar/motrix-webextension) - A browser extension for the Motrix Download Manager. It now has more than 20K+ users worldwide.
-- [Refined GitHub Feeds](https://github.com/gautamkrishnar/refined-github-feeds) - A browser extension that adds filtering to the Github news feeds. 
+- [Geolocation program](https://github.com/sbaqa/geolocation_program) - Proof of concept project showcases the ability of any location length and width could be found by its city or zip code to track something.
+- [Blog as a website on Ukrainian](https://bordovski.pp.ua) - blog that used for sould writing when I have a willing and peace in soul to do so.
+- [Selenium Python Automation Solution](https://github.com/sbaqa/UI_Selenium_Pytest_Automation) Completely build framework with reports, examples and github workflow.
+- [Color flipper](https://github.com/sbaqa/Color_flipper) - Tired of searching a correct color for your component? Generate it clicking as much as you wish!
+- [Hangman game](https://github.com/sbaqa/Hangman_game) - Try to guess word and not die. Fun game to spend time wisely.
 
-[⏩ &nbsp; and many more](https://github.com/gautamkrishnar?tab=repositories&q=&type=source&language=&sort=stargazers) 
+[⏩ &nbsp; and many more](https://github.com/sbaqa?tab=repositories) 
 
 ```
   ____                  ____                      
