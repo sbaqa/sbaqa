@@ -29,7 +29,7 @@ I am a Full Stack Software Developer in Test with 9+ years of experience in deve
 #### My Opensource Story
 All of my projects are released as open-source on GitHub, this includes some of my GitHub trending projects:
 - [Geolocation program](https://github.com/sbaqa/geolocation_program) - Proof of concept project showcases the ability of any location length and width could be found by its city or zip code to track something.
-- [Blog as a website on Ukrainian](https://bordovski.pp.ua) - blog that used for sould writing when I have a willing and peace in soul to do so.
+- [Website](https://sbaqa.github.io) - personal website for being present online, explanation of mission, what I do and contact information.
 - [Selenium Python Automation Solution](https://github.com/sbaqa/UI_Selenium_Pytest_Automation) Completely build framework with reports, examples and github workflow.
 - [Color flipper](https://github.com/sbaqa/Color_flipper) - Tired of searching a correct color for your component? Generate it clicking as much as you wish!
 - [Hangman game](https://github.com/sbaqa/Hangman_game) - Try to guess word and not die. Fun game to spend time wisely.
