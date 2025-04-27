@@ -4,7 +4,7 @@ This is the place where I opensource stuff and break things :rofl:
 - 🔭 &nbsp;I’m currently working on something cool :wink:
 - 🌱 &nbsp;I’m currently learning Appium, Locust and improving Typescript
 - 👨‍💻 &nbsp;Read more about my projects [here](https://sbaqa.github.io/)
-- 💬 Find out what people say about me on [LinkedkIn](https://www.linkedin.com/in/sviatoslavbordovski/details/recommendations)
+- 💬 Find out what people say about me on [LinkedIn](https://www.linkedin.com/in/sviatoslavbordovski/details/recommendations)
 - 🏅 All certifications are [here](https://www.linkedin.com/in/sviatoslavbordovski/details/certifications)
 - ⚡ &nbsp;Fun fact: I :heart: :dog:s and :bike:
 
@@ -20,7 +20,7 @@ This is the place where I opensource stuff and break things :rofl:
 🔗 &nbsp;**Connect with me**
 <p align="left">
 <a href="https://t.me/pump_gun" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="sviatoslavbordovski" height="30" width="40" /></a>
-<a href="https://upwork.com/sviatoslavbordovski" target="_blank"><img align="center" src="https://www.svgrepo.com/show/349549/upwork.svg" alt="sviatoslavbordovski" height="30" width="40" /></a>
+<a href="https://www.upwork.com/freelancers/~01c8861424212f2c39?s=1110580748627726336" target="_blank"><img align="center" src="https://www.svgrepo.com/show/349549/upwork.svg" alt="sviatoslavbordovski" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sviatoslavbordovski" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sviatoslavbordovski" height="30" width="40"></a>
 
 ### ✨&nbsp; About Me
