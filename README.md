@@ -5,6 +5,7 @@ This is the place where I opensource stuff and break things :rofl:
 - 🌱 &nbsp;I’m currently learning Appium, Locust and improving Typescript
 - 👨‍💻 &nbsp;Read more about my projects [here](https://sbaqa.github.io/)
 - 💬 Find out what people say about me on [LinkedkIn](https://www.linkedin.com/in/sviatoslavbordovski/details/recommendations)
+- 🏅 All certifications are [here](https://www.linkedin.com/in/sviatoslavbordovski/details/certifications)
 - ⚡ &nbsp;Fun fact: I :heart: :dog:s and :bike:
 
 <!-- 📕 &nbsp;**Latest Blog Posts**
