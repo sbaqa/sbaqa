@@ -23,6 +23,7 @@ This is the place where I opensource stuff and break things :rofl:
 <a href="https://www.upwork.com/freelancers/~01c8861424212f2c39?s=1110580748627726336" target="_blank"><img align="center" src="https://www.svgrepo.com/show/349549/upwork.svg" alt="sviatoslavbordovski" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sviatoslavbordovski" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sviatoslavbordovski" height="30" width="40" /></a>
 </p>
+
 ### ✨&nbsp; About Me
 
 I am a Full Stack Software Developer in Test with 9+ years of experience in developing enterprise test automation solutions, applications and open-source software.
