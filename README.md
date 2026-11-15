@@ -80,7 +80,8 @@ What I bring to a team:
 - 🤝 **Team growth**: onboarded and mentored new engineers through weekly check-ins and pairing, improving team velocity by **15%**
 - 🔁 **1,000+ manual cross-browser tests automated**, reducing manual testing time by **72%**
 - 🇺🇦 Kept delivering across multiple projects while living in Ukraine during the war
-- 📜 Certified in management, Selenium, Python, Postman, Robot Framework and web development. [See all certifications](https://www.linkedin.com/in/sviatoslavbordovski/details/certifications) · [Recommendations](https://www.linkedin.com/in/sviatoslavbordovski/details/recommendations)
+- 🌍 **Recommended by engineers and managers from companies around the world**. [Read the recommendations on LinkedIn](https://www.linkedin.com/in/sviatoslavbordovski/details/recommendations/)
+- 📜 **Certified** in management, Selenium, Python, Postman, Robot Framework and web development. [See all certifications](https://www.linkedin.com/in/sviatoslavbordovski/details/certifications)
 
 ## 🛠️ Languages and tools
 
@@ -129,6 +130,9 @@ What I bring to a team:
 <img src="https://img.shields.io/badge/AI%20Agents-555555?style=flat-square" alt="AI Agents"/>
 <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white" alt="GitHub Copilot"/>
 <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" alt="Cursor"/>
+<img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude"/>
+<img src="https://img.shields.io/badge/promptfoo-E5484D?style=flat-square" alt="promptfoo"/>
+<a href="https://github.com/sbaqa/tessella"><img src="https://img.shields.io/badge/Tessella-0E75B6?style=flat-square" alt="Tessella"/></a>
 
 **Practices**: OOP, SOLID, KISS, Page Object Model, Facade and Factory patterns, BDD, TDD
 
