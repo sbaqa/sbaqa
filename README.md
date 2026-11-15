@@ -38,19 +38,9 @@
   </tr>
 </table>
 
-```mermaid
----
-config:
-  themeVariables:
-    xyChart:
-      plotColorPalette: "#0e75b6"
----
-xychart-beta horizontal
-    title "Measured results across my projects (% improvement)"
-    x-axis ["Manual test time", "Regression cycle", "Prod issues", "Coverage (pts)", "Bugs", "Team velocity"]
-    y-axis "Improvement, %" 0 --> 80
-    bar [72, 60, 60, 40, 40, 15]
-```
+<p align="center">
+  <img src="./assets/impact-donuts.svg" alt="Measured results: manual testing time reduced 72%, regression cycle 60% shorter, 60% fewer production issues, test coverage +40 points, 40% fewer bugs, team velocity 15% faster" width="100%"/>
+</p>
 
 ## 🚀 Career path
 
