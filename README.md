@@ -9,10 +9,13 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/sviatoslavbordovski"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"/></a>
-  <a href="https://sbaqa.github.io/"><img src="https://img.shields.io/badge/Website-sbaqa.github.io-222222?style=for-the-badge" alt="Website"/></a>
+  <a href="https://sbaqa.github.io/"><img src="https://img.shields.io/badge/Website-sbaqa.github.io-0E75B6?style=for-the-badge" alt="Website"/></a>
   <a href="https://www.upwork.com/freelancers/~01c8861424212f2c39"><img src="https://img.shields.io/badge/Hire%20me%20on%20Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"/></a>
   <a href="https://sbaqa.github.io/static/files/Sviatoslav%20Bordovski%20Resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-D14836?style=for-the-badge" alt="Resume"/></a>
-  <a href="https://x.com/sbordovski"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+  <a href="https://x.com/sbordovski"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/X-FFFFFF?style=for-the-badge&logo=x&logoColor=black"/>
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </picture></a>
 </p>
 
 ---
@@ -97,23 +100,23 @@ What I bring to a team:
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium"/>
 <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square" alt="Playwright"/>
 <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="Pytest"/>
-<img src="https://img.shields.io/badge/Robot%20Framework-000000?style=flat-square&logo=robotframework&logoColor=white" alt="Robot Framework"/>
+<img src="https://img.shields.io/badge/Robot%20Framework-00A3A0?style=flat-square&logo=robotframework&logoColor=white" alt="Robot Framework"/>
 <img src="https://img.shields.io/badge/Appium-EE376D?style=flat-square&logo=appium&logoColor=white" alt="Appium"/>
 <img src="https://img.shields.io/badge/Allure%20Report-FF6C37?style=flat-square" alt="Allure Report"/>
-<img src="https://img.shields.io/badge/BDD-pytest--bdd-555555?style=flat-square" alt="BDD"/>
+<img src="https://img.shields.io/badge/BDD-pytest--bdd-6E7781?style=flat-square" alt="BDD"/>
 
 **API and protocols**<br/>
-<img src="https://img.shields.io/badge/REST%20API-555555?style=flat-square" alt="REST API"/>
+<img src="https://img.shields.io/badge/REST%20API-6E7781?style=flat-square" alt="REST API"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"/>
 <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" alt="Swagger"/>
-<img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="WebSockets"/>
+<img src="https://img.shields.io/badge/WebSockets-6E56CF?style=flat-square&logo=socketdotio&logoColor=white" alt="WebSockets"/>
 <img src="https://img.shields.io/badge/FIX%20API-1F4E79?style=flat-square" alt="FIX API"/>
 
 **CI/CD and cloud**<br/>
 <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins"/>
 <img src="https://img.shields.io/badge/GitLab%20CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab CI"/>
-<img src="https://img.shields.io/badge/CircleCI-343434?style=flat-square&logo=circleci&logoColor=white" alt="CircleCI"/>
+<img src="https://img.shields.io/badge/CircleCI-5A6B7B?style=flat-square&logo=circleci&logoColor=white" alt="CircleCI"/>
 <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square" alt="Azure DevOps"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
 <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud"/>
@@ -125,11 +128,11 @@ What I bring to a team:
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
 
 **AI tooling**<br/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
+<img src="https://img.shields.io/badge/LangChain-2D6A5F?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
 <img src="https://img.shields.io/badge/DeepEval-6E40C9?style=flat-square" alt="DeepEval"/>
-<img src="https://img.shields.io/badge/AI%20Agents-555555?style=flat-square" alt="AI Agents"/>
-<img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white" alt="GitHub Copilot"/>
-<img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" alt="Cursor"/>
+<img src="https://img.shields.io/badge/AI%20Agents-6E7781?style=flat-square" alt="AI Agents"/>
+<img src="https://img.shields.io/badge/GitHub%20Copilot-8957E5?style=flat-square&logo=githubcopilot&logoColor=white" alt="GitHub Copilot"/>
+<img src="https://img.shields.io/badge/Cursor-4B5563?style=flat-square&logo=cursor&logoColor=white" alt="Cursor"/>
 <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude"/>
 <img src="https://img.shields.io/badge/promptfoo-E5484D?style=flat-square" alt="promptfoo"/>
 <a href="https://github.com/sbaqa/tessella"><img src="https://img.shields.io/badge/Tessella-0E75B6?style=flat-square" alt="Tessella"/></a>
@@ -139,12 +142,20 @@ What I bring to a team:
 ## 📈 GitHub stats
 
 <p align="center">
-  <img src="./profile-summary-card-output/github/0-profile-details.svg" alt="Profile details" width="100%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/0-profile-details.svg"/>
+    <img src="./profile-summary-card-output/github/0-profile-details.svg" alt="Profile details" width="100%"/>
+  </picture>
 </p>
 <p align="center">
-  <img src="./profile-summary-card-output/github/1-repos-per-language.svg" alt="Repos per language" width="32%"/>
-  <img src="./profile-summary-card-output/github/2-most-commit-language.svg" alt="Most committed language" width="32%"/>
-  <img src="./profile-summary-card-output/github/3-stats.svg" alt="GitHub stats" width="32%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/1-repos-per-language.svg"/>
+    <img src="./profile-summary-card-output/github/1-repos-per-language.svg" alt="Repos per language" width="49%"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/2-most-commit-language.svg"/>
+    <img src="./profile-summary-card-output/github/2-most-commit-language.svg" alt="Most committed language" width="49%"/>
+  </picture>
 </p>
 
 ## 🧩 Open source
