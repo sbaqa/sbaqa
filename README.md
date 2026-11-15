@@ -83,7 +83,7 @@ What I bring to a team:
 - 🤝 **Team growth**: onboarded and mentored new engineers through weekly check-ins and pairing, improving team velocity by **15%**
 - 🔁 **1,000+ manual cross-browser tests automated**, reducing manual testing time by **72%**
 - 🇺🇦 Kept delivering across multiple projects while living in Ukraine during the war
-- 🌍 **Recommended by engineers and managers from companies around the world**. [Read the recommendations on LinkedIn](https://www.linkedin.com/in/sviatoslavbordovski/details/recommendations/)
+- 🌍 **Recommended by engineers and managers around the world**. [Read the recommendations on LinkedIn](https://www.linkedin.com/in/sviatoslavbordovski/details/recommendations/)
 - 📜 **Certified** in management, Selenium, Python, Postman, Robot Framework and web development. [See all certifications](https://www.linkedin.com/in/sviatoslavbordovski/details/certifications)
 
 ## 🛠️ Languages and tools
