@@ -40,8 +40,11 @@
 
 ## 🚀 Career path
 
+In QA since **October 2015**: from my first remote QA role to Senior SDET leading AI/ML quality.
+
 ```mermaid
 timeline
+    2015 : Remote QA Engineer · Softinvader
     2018 : Manual Test Engineer · Simplybook
     2019 : Test Automation Engineer · Indeema
     2020 : Test Automation Engineer · Temy
