@@ -1,3 +1,7 @@
+<p align="center">
+  <a href="https://sbaqa.github.io/"><img src="https://sbaqa.github.io/static/images/sviatoslav.png" alt="Sviatoslav Bordovskyi" width="150"/></a>
+</p>
+
 <h1 align="center">Hi, I'm Sviatoslav Bordovskyi <a href="https://sbaqa.github.io/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></a></h1>
 
 <h3 align="center">Senior SDET · ML &amp; AI Testing · Test Automation Architect</h3>
@@ -34,19 +38,9 @@
   </tr>
 </table>
 
-```mermaid
----
-config:
-  themeVariables:
-    xyChart:
-      plotColorPalette: "#0e75b6"
----
-xychart-beta horizontal
-    title "Measured results across my projects (% improvement)"
-    x-axis ["Manual test time", "Regression cycle", "Prod issues", "Coverage (pts)", "Bugs", "Team velocity"]
-    y-axis "Improvement, %" 0 --> 80
-    bar [72, 60, 60, 40, 40, 15]
-```
+<p align="center">
+  <img src="./assets/impact-donuts.svg" alt="Measured results: manual testing time reduced 72%, regression cycle 60% shorter, 60% fewer production issues, test coverage +40 points, 40% fewer bugs, team velocity 15% faster" width="100%"/>
+</p>
 
 ## 🚀 Career path
 
