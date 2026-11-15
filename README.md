@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://sbaqa.github.io/"><img src="https://sbaqa.github.io/static/images/sviatoslav.png" alt="Sviatoslav Bordovskyi" width="150"/></a>
+  <a href="https://sbaqa.github.io/"><img src="https://sbaqa.github.io/static/images/sviatoslav.png" alt="Sviatoslav Bordovskyi" width="100"/></a>
 </p>
 
 <h1 align="center">Hi, I'm Sviatoslav Bordovskyi <a href="https://sbaqa.github.io/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></a></h1>
@@ -13,8 +13,8 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/sviatoslavbordovski"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"/></a>
-  <a href="https://www.upwork.com/freelancers/~01c8861424212f2c39"><img src="https://img.shields.io/badge/Hire%20me%20on%20Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"/></a>
   <a href="https://sbaqa.github.io/"><img src="https://img.shields.io/badge/Website-sbaqa.github.io-222222?style=for-the-badge" alt="Website"/></a>
+  <a href="https://www.upwork.com/freelancers/~01c8861424212f2c39"><img src="https://img.shields.io/badge/Hire%20me%20on%20Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"/></a>
   <a href="https://sbaqa.github.io/static/files/Sviatoslav%20Bordovski%20Resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-D14836?style=for-the-badge" alt="Resume"/></a>
   <a href="https://x.com/sbordovski"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
 </p>
