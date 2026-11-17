@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Sviatoslav Bordovskyi <a href="https://sbaqa.github.io/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></a></h1>
+<h1 align="center">Hi, I'm Sviatoslav Bordovskyi <a href="https://sbqeng.github.io/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></a></h1>
 
 <h3 align="center">Senior SDET · ML &amp; AI Testing · Test Automation Architect</h3>
 
@@ -9,9 +9,9 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/sviatoslavbordovski"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"/></a>
-  <a href="https://sbaqa.github.io/"><img src="https://img.shields.io/badge/Website-sbaqa.github.io-0E75B6?style=for-the-badge" alt="Website"/></a>
+  <a href="https://sbqeng.github.io/"><img src="https://img.shields.io/badge/Website-sbqeng.github.io-0E75B6?style=for-the-badge" alt="Website"/></a>
   <a href="https://www.upwork.com/freelancers/~01c8861424212f2c39"><img src="https://img.shields.io/badge/Hire%20me%20on%20Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"/></a>
-  <a href="https://sbaqa.github.io/static/files/Sviatoslav%20Bordovski%20Resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-D14836?style=for-the-badge" alt="Resume"/></a>
+  <a href="https://sbqeng.github.io/static/files/Sviatoslav%20Bordovskyi%20Resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-D14836?style=for-the-badge" alt="Resume"/></a>
   <a href="https://x.com/sbordovski"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/X-FFFFFF?style=for-the-badge&logo=x&logoColor=black"/>
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
@@ -24,16 +24,16 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="25%"><h2>11+</h2>years in QA &amp;<br/>test automation</td>
-    <td align="center" width="25%"><h2>6,000+</h2>automated tests<br/>run every night</td>
-    <td align="center" width="25%"><h2>85%+</h2>automated test<br/>coverage achieved</td>
-    <td align="center" width="25%"><h2>3M+</h2>daily operations on a trading<br/>platform kept under test</td>
+    <td align="center" valign="top" width="25%"><h2>11+</h2>years in QA &amp;<br/>test automation</td>
+    <td align="center" valign="top" width="25%"><h2>6,000+</h2>automated tests<br/>run every night</td>
+    <td align="center" valign="top" width="25%"><h2>85%+</h2>automated test<br/>coverage achieved</td>
+    <td align="center" valign="top" width="25%"><h2>3M+</h2>daily trading operations<br/>kept under test</td>
   </tr>
   <tr>
-    <td align="center"><h2>−60%</h2>regression cycle time,<br/>2× faster releases</td>
-    <td align="center"><h2>−40%</h2>fewer bugs on a<br/>fintech platform</td>
-    <td align="center"><h2>700+</h2>FIX API &amp; WebSocket<br/>tests built from scratch</td>
-    <td align="center"><h2>2×</h2>AQA Lead roles<br/>(EPAM, Langate)</td>
+    <td align="center" valign="top"><h2>−60%</h2>regression cycle time,<br/>2× faster releases</td>
+    <td align="center" valign="top"><h2>−40%</h2>fewer bugs on a<br/>fintech platform</td>
+    <td align="center" valign="top"><h2>700+</h2>FIX API &amp; WebSocket<br/>tests built from scratch</td>
+    <td align="center" valign="top"><h2>2×</h2>AQA Lead roles<br/>(EPAM, Langate)</td>
   </tr>
 </table>
 
@@ -135,7 +135,7 @@ What I bring to a team:
 <img src="https://img.shields.io/badge/Cursor-4B5563?style=flat-square&logo=cursor&logoColor=white" alt="Cursor"/>
 <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude"/>
 <img src="https://img.shields.io/badge/promptfoo-E5484D?style=flat-square" alt="promptfoo"/>
-<a href="https://github.com/sbaqa/tessella"><img src="https://img.shields.io/badge/Tessella-0E75B6?style=flat-square" alt="Tessella"/></a>
+<a href="https://github.com/sbqeng/tessella"><img src="https://img.shields.io/badge/Tessella-0E75B6?style=flat-square" alt="Tessella"/></a>
 
 **Practices**: OOP, SOLID, KISS, Page Object Model, Facade and Factory patterns, BDD, TDD
 
@@ -162,14 +162,14 @@ What I bring to a team:
 
 All of my personal projects are open source:
 
-- [UI Selenium Pytest Automation](https://github.com/sbaqa/UI_Selenium_Pytest_Automation): a complete framework with reports, examples and a GitHub Actions workflow
-- [Geolocation program](https://github.com/sbaqa/geolocation_program): finds the latitude and longitude of any city or zip code
-- [Personal website](https://sbaqa.github.io): my mission, what I do and how to reach me
-- [Color flipper](https://github.com/sbaqa/Color_flipper): generate the right color for your component in one click
-- [Hangman game](https://github.com/sbaqa/Hangman_game): guess the word before it's too late
+- [UI Selenium Pytest Automation](https://github.com/sbqeng/UI_Selenium_Pytest_Automation): a complete framework with reports, examples and a GitHub Actions workflow
+- [Geolocation program](https://github.com/sbqeng/geolocation_program): finds the latitude and longitude of any city or zip code
+- [Personal website](https://sbqeng.github.io): my mission, what I do and how to reach me
+- [Color flipper](https://github.com/sbqeng/Color_flipper): generate the right color for your component in one click
+- [Hangman game](https://github.com/sbqeng/Hangman_game): guess the word before it's too late
 
-[⏩ See all repositories](https://github.com/sbaqa?tab=repositories)
+[⏩ See all repositories](https://github.com/sbqeng?tab=repositories)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sbaqa&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=sbqeng&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
