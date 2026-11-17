@@ -8,11 +8,11 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/sviatoslavbordovski"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"/></a>
+  <a href="https://linkedin.com/in/sviatoslavbordovskyi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"/></a>
   <a href="https://sbqeng.github.io/"><img src="https://img.shields.io/badge/Website-sbqeng.github.io-0E75B6?style=for-the-badge" alt="Website"/></a>
   <a href="https://www.upwork.com/freelancers/~01c8861424212f2c39"><img src="https://img.shields.io/badge/Hire%20me%20on%20Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"/></a>
   <a href="https://sbqeng.github.io/static/files/Sviatoslav%20Bordovskyi%20Resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-D14836?style=for-the-badge" alt="Resume"/></a>
-  <a href="https://x.com/sbordovski"><picture>
+  <a href="https://x.com/sbordovskyi"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/X-FFFFFF?style=for-the-badge&logo=x&logoColor=black"/>
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
   </picture></a>
@@ -83,8 +83,8 @@ What I bring to a team:
 - 🤝 **Team growth**: onboarded and mentored new engineers through weekly check-ins and pairing, improving team velocity by **15%**
 - 🔁 **1,000+ manual cross-browser tests automated**, reducing manual testing time by **72%**
 - 🇺🇦 Kept delivering across multiple projects while living in Ukraine during the war
-- 🌍 **Recommended by engineers and managers around the world**. [Read the recommendations on LinkedIn](https://www.linkedin.com/in/sviatoslavbordovski/details/recommendations/)
-- 📜 **Certified** in management, Selenium, Python, Postman, Robot Framework and web development. [See all certifications](https://www.linkedin.com/in/sviatoslavbordovski/details/certifications)
+- 🌍 **Recommended by engineers and managers around the world**. [Read the recommendations on LinkedIn](https://www.linkedin.com/in/sviatoslavbordovskyi/details/recommendations/)
+- 📜 **Certified** in management, Selenium, Python, Postman, Robot Framework and web development. [See all certifications](https://www.linkedin.com/in/sviatoslavbordovskyi/details/certifications)
 
 ## 🛠️ Languages and tools
 
