@@ -24,16 +24,16 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="25%"><h2>11+</h2>years in QA &amp;<br/>test automation</td>
-    <td align="center" width="25%"><h2>6,000+</h2>automated tests<br/>run every night</td>
-    <td align="center" width="25%"><h2>85%+</h2>automated test<br/>coverage achieved</td>
-    <td align="center" width="25%"><h2>3M+</h2>daily operations on a trading<br/>platform kept under test</td>
+    <td align="center" valign="top" width="25%"><h2>11+</h2>years in QA &amp;<br/>test automation</td>
+    <td align="center" valign="top" width="25%"><h2>6,000+</h2>automated tests<br/>run every night</td>
+    <td align="center" valign="top" width="25%"><h2>85%+</h2>automated test<br/>coverage achieved</td>
+    <td align="center" valign="top" width="25%"><h2>3M+</h2>daily trading operations<br/>kept under test</td>
   </tr>
   <tr>
-    <td align="center"><h2>−60%</h2>regression cycle time,<br/>2× faster releases</td>
-    <td align="center"><h2>−40%</h2>fewer bugs on a<br/>fintech platform</td>
-    <td align="center"><h2>700+</h2>FIX API &amp; WebSocket<br/>tests built from scratch</td>
-    <td align="center"><h2>2×</h2>AQA Lead roles<br/>(EPAM, Langate)</td>
+    <td align="center" valign="top"><h2>−60%</h2>regression cycle time,<br/>2× faster releases</td>
+    <td align="center" valign="top"><h2>−40%</h2>fewer bugs on a<br/>fintech platform</td>
+    <td align="center" valign="top"><h2>700+</h2>FIX API &amp; WebSocket<br/>tests built from scratch</td>
+    <td align="center" valign="top"><h2>2×</h2>AQA Lead roles<br/>(EPAM, Langate)</td>
   </tr>
 </table>
 
