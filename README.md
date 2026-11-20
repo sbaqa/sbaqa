@@ -25,7 +25,7 @@
 <table align="center">
   <tr>
     <td align="center" valign="top" width="25%"><h2>11+</h2>years in QA &amp;<br/>test automation</td>
-    <td align="center" valign="top" width="25%"><h2>6,000+</h2>automated tests<br/>run every night</td>
+    <td align="center" valign="top" width="25%"><h2>6,000+</h2>tests has been automated<br/>on Enterprise project to run every night</td>
     <td align="center" valign="top" width="25%"><h2>85%+</h2>automated test<br/>coverage achieved</td>
     <td align="center" valign="top" width="25%"><h2>3M+</h2>daily trading operations<br/>kept under test</td>
   </tr>
