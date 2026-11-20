@@ -160,7 +160,7 @@ What I bring to a team:
 
 ## 🧩 Open source
 
-All of my personal projects are open source:
+All my personal projects are open source:
 
 - [UI Selenium Pytest Automation](https://github.com/sbqeng/UI_Selenium_Pytest_Automation): a complete framework with reports, examples and a GitHub Actions workflow
 - [Geolocation program](https://github.com/sbqeng/geolocation_program): finds the latitude and longitude of any city or zip code
