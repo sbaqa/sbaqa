@@ -4,7 +4,7 @@
 
 <p align="center">
   I build test automation that teams trust: frameworks from scratch, fast CI pipelines,<br/>
-  and quality strategy for fintech, enterprise and AI/ML products. 11+ years in QA.
+  and quality strategy for fintech, enterprise and AI/ML products. 11+ years in Quality Engineering.
 </p>
 
 <p align="center">
